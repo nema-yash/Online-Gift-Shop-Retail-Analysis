@@ -1,6 +1,6 @@
 # Online-Gift-Shop-Retail-Analysis
 
-Introduction: 
+Introduction:
 The online retail dataset has been obtained from UCI's Machine Learning Repository. The dataset is for a UK-based all occasion gifting clients' sales content from 2009 to 2011 that shifted completely from offline stores to an online website in 2009. https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 The Business Challenge:
@@ -43,7 +43,7 @@ Summary:
 7) Question mark and Dog customers comprise 55% of total customers, these clusters have the potential to be driven to Cash cow or Star customers.
 
 Recommendation:
-1) B2B Strategy- As most customers are Wholesale purchasers, increase reach by targeting B2B Wholesale Retailers via Marketing campaigns. Geo location based targeting of Gifting stores or office spaces or keyword based targeting could help.
-2) Event Factor- We see sales directly impacted by events and festivals. We see momentum start 15-30 days before a festival or event, so stocking up on event related products and online promotion could help drive sales
-3) Geo Expansion- We see revenue skewed towards UK and European countries, market expansion into markets that were less impacted by recession like Australia, Japan and Hong Kong could help drive new customers and increase sales
-4) Product placement- We observed certain products being placed together during transactions, these products can be placed closely in the online website to create association and drive sales. Customers would be likely to purchase more products.
+1) **B2B Strategy**- As most customers are Wholesale purchasers, increase reach by targeting B2B Wholesale Retailers via Marketing campaigns. Geo location based targeting of Gifting stores or office spaces or keyword based targeting could help.
+2) **Event Factor**- We see sales directly impacted by events and festivals. We see momentum start 15-30 days before a festival or event, so stocking up on event related products and online promotion could help drive sales
+3) **Geo Expansion**- We see revenue skewed towards UK and European countries, market expansion into markets that were less impacted by recession like Australia, Japan and Hong Kong could help drive new customers and increase sales
+4) **Product placement**- We observed certain products being placed together during transactions, these products can be placed closely in the online website to create association and drive sales. Customers would be likely to purchase more products.
