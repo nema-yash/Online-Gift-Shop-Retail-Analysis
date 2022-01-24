@@ -11,7 +11,7 @@ The Business Challenge:
 
 Based on our analysis, we would like to recommend strategies the online retailer can adopt to improve sales. 
 
-The insights are shown on google site here: https://sites.google.com/view/ie6600-sec05-project01-group18/home
+**The insights are shown on google site here: https://sites.google.com/view/ie6600-sec05-project01-group18/home**
 
 Trends analyzed:
 
