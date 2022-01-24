@@ -26,7 +26,7 @@ Trends analyzed:
 3) How do occasions impact sales and how do they influence the decision-making of a customer?
 4) How can the retailer dynamically adjust product quantity for different periods?
 
-**Understanding Product Demand & Audience to Target**
+**Understanding Product Demand & Audience to Target:**
 1) Which countries see an increment in demand for the retailer?
 2) How many users are churned out in the two years?
 3) How's retention in top revenue-generating countries?
